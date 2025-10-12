@@ -1,12 +1,15 @@
-# Learning Repository
+﻿# TypeScript Study Notes 🤓
 
-This repository contains programming examples and notes in multiple languages. Each language has its own branch with its own README and examples.  
+This repository contains TypeScript examples and notes based on the course I've taken. 🚀🚀🚀
 
-## Branches
+Each `.ts` file contains annotated code samples for quick reference and revision.
 
-- **`design-patterns`** � C# design patterns and SOLID principles.  
-- **`typescript`** � TypeScript examples covering types, classes, generics, modules, and type narrowing.  
-- **`sql`** � SQL examples covering DDL, DML, joins, set operators, window functions, subqueries, CTEs, views, stored procedures, and indexes.  
+---
 
-## Usage
-Switch to the branch corresponding to the language you need
+### 📂 File Structure
+
+- `1-types.ts` – Type annotations, inference, `any`, `unknown`, functions, arrays, objects, tuples, enums, type aliases, interfaces  
+- `2-classes.ts` – Classes, inheritance, access modifiers, getters/setters, abstract classes, implementing interfaces  
+- `3-generics.ts` – Generic functions, constraints, default types, generic classes, reusable components  
+- `4-type-narrowing.ts` – Type guards: `typeof`, `in`, custom predicates, discriminated unions, `never` exhaustiveness checks  
+- `5-modules.ts` – Named exports/imports, default exports, importing types, module organization and simulation
