@@ -1,12 +1,25 @@
-# Learning Repository
+﻿# SQL Study Notes 🤓
 
-This repository contains programming examples and notes in multiple languages. Each language has its own branch with its own README and examples.  
+This repository contains structured SQL practice files based on the course I've taken 🚀🚀🚀
 
-## Branches
+Each `.sql` file corresponds to a section from the course, and includes examples and notes for reference.  
 
-- **`design-patterns`** � C# design patterns and SOLID principles.  
-- **`typescript`** � TypeScript examples covering types, classes, generics, modules, and type narrowing.  
-- **`sql`** � SQL examples covering DDL, DML, joins, set operators, window functions, subqueries, CTEs, views, stored procedures, and indexes.  
+---
 
-## Usage
-Switch to the branch corresponding to the language you need
+### 📂 File Structure by Course Section
+
+- `03-data-definition.sql` – DDL: `CREATE`, `ALTER`, `DROP`, constraints  
+- `04-data-manipulation.sql` – DML: `INSERT`, `UPDATE`, `DELETE`  
+- `05-filtering-data.sql` – `WHERE`, `BETWEEN`, `IN`, `LIKE`, `NOT`, etc.  
+- `06-joins.sql` – `INNER`, `LEFT`, `RIGHT`, `FULL`, `CROSS`, `ANTI` joins  
+- `07-set-operators.sql` – `UNION`, `INTERSECT`, `EXCEPT`  
+- `08-string-functions.sql` – `CONCAT`, `TRIM`, `REPLACE`, `SUBSTRING`, casing  
+- `09-date-time-functions.sql` – `DATE`, `NOW`, `DATEDIFF`, formatting  
+- `10-null-functions.sql` – `ISNULL`, `COALESCE`, `IFNULL`, etc.  
+- `11-case-when.sql` – `CASE WHEN` conditions and variations  
+- `12-window-basics.sql` – Basic window function syntax & `OVER()`  
+- `16-subqueries.sql` – Scalar, correlated, and nested subqueries  
+- `17-cte.sql` – Common Table Expressions (`WITH`)  
+- `18-views.sql` – Creating and querying SQL views  
+- `20-stored-procedures.sql` – Procedure definition and execution  
+- `21-indexes.sql` – Creating and using indexes
